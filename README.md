@@ -1,6 +1,6 @@
 # Scatter-Plot-v.2.1
 
-Numpy, pandas, ffmpeg, matplotlib:
+Learning numpy, pandas, ffmpeg, matplotlib:
 
 - Savefig PNG and MP4
 - Dir Outuput
