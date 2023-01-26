@@ -1,4 +1,4 @@
-# Scatter-Plot-v.2.1
+# Scatter-Plot-v2.1
 
 Learning numpy, pandas, ffmpeg, matplotlib:
 
